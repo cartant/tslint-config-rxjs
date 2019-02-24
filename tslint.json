@@ -1,0 +1,26 @@
+{
+    "extends": "rxjs-tslint-rules",
+    "rules": {
+        "rxjs-no-compat": { "severity": "error" },
+        "rxjs-no-create": { "severity": "error" },
+        "rxjs-no-ignored-notifier": { "severity": "error" },
+        "rxjs-no-ignored-replay-buffer": { "severity": "error" },
+        "rxjs-no-internal": { "severity": "error" },
+        "rxjs-no-nested-subscribe": { "severity": "error" },
+        "rxjs-no-sharereplay": {
+            "options": [{
+                "allowConfig": true
+            }],
+            "severity": "error"
+        },
+        "rxjs-no-subject-unsubscribe": { "severity": "error" },
+        "rxjs-no-subject-value": { "severity": "error" },
+        "rxjs-no-unbound-methods": { "severity": "error" },
+        "rxjs-no-unsafe-catch": { "severity": "error" },
+        "rxjs-no-unsafe-first": { "severity": "error" },
+        "rxjs-no-unsafe-scope": { "severity": "error" },
+        "rxjs-no-unsafe-switchmap": { "severity": "error" },
+        "rxjs-no-unsafe-takeuntil": { "severity": "error" },
+        "rxjs-throw-error": { "severity": "error" }
+    }
+}
