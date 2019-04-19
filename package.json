@@ -17,6 +17,7 @@
   "peerDependencies": {},
   "private": false,
   "publishConfig": {
+    "access": "public",
     "tag": "latest"
   },
   "repository": {
