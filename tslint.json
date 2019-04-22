@@ -3,9 +3,12 @@
     "rules": {
         "rxjs-no-async-subscribe": { "severity": "error" },
         "rxjs-no-compat": { "severity": "error" },
+        "rxjs-no-connectable": { "severity": "error" },
         "rxjs-no-create": { "severity": "error" },
+        "rxjs-no-explicit-generics": { "severity": "error" },
         "rxjs-no-ignored-notifier": { "severity": "error" },
         "rxjs-no-ignored-replay-buffer": { "severity": "error" },
+        "rxjs-no-ignored-observable": { "severity": "error" },
         "rxjs-no-ignored-subscription": { "severity": "error" },
         "rxjs-no-internal": { "severity": "error" },
         "rxjs-no-nested-subscribe": { "severity": "error" },
@@ -15,6 +18,7 @@
             }],
             "severity": "error"
         },
+        "rxjs-no-subclass": { "severity": "error" },
         "rxjs-no-subject-unsubscribe": { "severity": "error" },
         "rxjs-no-subject-value": { "severity": "error" },
         "rxjs-no-unbound-methods": { "severity": "error" },

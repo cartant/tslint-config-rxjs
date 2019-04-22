@@ -4,7 +4,7 @@
     "url": "https://github.com/cartant/tslint-config-rxjs/issues"
   },
   "dependencies": {
-    "rxjs-tslint-rules": "^4.17.2"
+    "rxjs-tslint-rules": "^4.22.1"
   },
   "description": "TSLint configuration",
   "devDependencies": {},
