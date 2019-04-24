@@ -3,9 +3,7 @@
   "bugs": {
     "url": "https://github.com/cartant/tslint-config-rxjs/issues"
   },
-  "dependencies": {
-    "rxjs-tslint-rules": "^4.22.1"
-  },
+  "dependencies": {},
   "description": "TSLint configuration",
   "devDependencies": {},
   "homepage": "https://github.com/cartant/tslint-config-rxjs",
@@ -14,7 +12,10 @@
   "main": "./tslint.json",
   "name": "@cartant/tslint-config-rxjs",
   "optionalDependencies": {},
-  "peerDependencies": {},
+  "peerDependencies": {
+    "rxjs-tslint-rules": "^4.23.0",
+    "tslint": "^5.8.0"
+  },
   "private": false,
   "publishConfig": {
     "access": "public",
