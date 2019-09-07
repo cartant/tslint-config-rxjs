@@ -10,6 +10,7 @@
         "rxjs-no-ignored-replay-buffer": { "severity": "error" },
         "rxjs-no-ignored-observable": { "severity": "error" },
         "rxjs-no-ignored-subscription": { "severity": "error" },
+        "rxjs-no-index": { "severity": "error" },
         "rxjs-no-internal": { "severity": "error" },
         "rxjs-no-nested-subscribe": { "severity": "error" },
         "rxjs-no-sharereplay": {
