@@ -31,7 +31,7 @@
             }],
             "severity": "error"
         },
-        "rxjs-no-unsafe-subject": { "severity": "error" },
+        "rxjs-no-unsafe-subject-next": { "severity": "error" },
         "rxjs-no-unsafe-switchmap": { "severity": "error" },
         "rxjs-no-unsafe-takeuntil": { "severity": "error" },
         "rxjs-throw-error": { "severity": "error" }
