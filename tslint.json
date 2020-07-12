@@ -11,6 +11,7 @@
         "rxjs-no-ignored-observable": { "severity": "error" },
         "rxjs-no-ignored-subscription": { "severity": "error" },
         "rxjs-no-ignored-takewhile-value": { "severity": "error" },
+        "rxjs-no-implicit-any-catch": { "severity": "error" },
         "rxjs-no-index": { "severity": "error" },
         "rxjs-no-internal": { "severity": "error" },
         "rxjs-no-nested-subscribe": { "severity": "error" },
